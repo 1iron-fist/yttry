@@ -3,5 +3,7 @@
 Text file
 1. Feed
 2. Randoms
+3. Youtube
+$. Update
 
 Version control
